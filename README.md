@@ -1,2 +1,2 @@
 # inteligencia-artificial
-Inteligência Artificial
+Materiais utilizados na disciplina de Inteligência Artificial
