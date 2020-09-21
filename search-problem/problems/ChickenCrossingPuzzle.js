@@ -16,7 +16,7 @@ const actions = {
     COMEBACKWITHCORN: 'come-back-with-corn',    
 }
 
- class ChickenCrossingPuzzle {
+class ChickenCrossingPuzzle {
     constructor(farmerState, foxState, chickenState, cornState) {   
         this.farmerState = farmerState;
         this.foxState = foxState;
