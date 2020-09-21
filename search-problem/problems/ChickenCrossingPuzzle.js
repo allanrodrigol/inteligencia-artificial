@@ -112,9 +112,9 @@ const actions = {
     toString() {
         return `[farmer=${this.farmerState}, fox=${this.foxState}, chicken=${this.chickenState}, corn=${this.cornState}]`
     }
- }
+}
 
- let initial = new ChickenCrossingPuzzle(states.LEFT, states.LEFT, states.LEFT, states.LEFT);
+let initial = new ChickenCrossingPuzzle(states.LEFT, states.LEFT, states.LEFT, states.LEFT);
 
 let finals = [
         new ChickenCrossingPuzzle(states.RIGHT, states.RIGHT, states.RIGHT, states.RIGHT)
